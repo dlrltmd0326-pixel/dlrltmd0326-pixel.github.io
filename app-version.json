@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "platforms": {
+    "desktop": {
+      "latestVersion": "3.3.70",
+      "minimumVersion": "3.3.70",
+      "updateUrl": "https://dlrltmd0326-pixel.github.io/download/",
+      "message": "안정성과 자동 업데이트 기능이 포함된 최신 PC 버전을 설치해 주세요."
+    },
+    "android": {
+      "latestVersion": "3.3.70",
+      "minimumVersion": "3.3.68",
+      "updateUrl": "https://play.google.com/store/apps/details?id=com.inpiong.manager",
+      "message": "새 기능과 안정성 개선을 받으려면 Play스토어에서 업데이트해 주세요."
+    }
+  }
+}

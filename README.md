@@ -6,4 +6,4 @@
 - 최신 Windows 설치 파일: https://github.com/dlrltmd0326-pixel/inpiong-manager-releases/releases/latest/download/Inpiong-Manager-Setup-x64.exe
 - 운영 웹: https://infinity-770be.web.app/
 
-현재 공개 버전은 `v3.3.69`입니다.
+현재 공개 버전은 `v3.3.70`입니다.
